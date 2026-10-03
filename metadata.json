@@ -1,0 +1,8 @@
+{
+  "name": "LocalSignal",
+  "description": "Hyperlocal signal fusion and evidence-driven local opportunity discovery system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
